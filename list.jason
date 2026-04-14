@@ -39,6 +39,11 @@
     "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/crunchyroll.mp4",
     "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/crunchyroll.png"
   },
+ {
+    "title": "peacock",
+    "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/peacock.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/peacock.png"
+  },
 {
     "title": "showtime",
     "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/showtime.mp4",
