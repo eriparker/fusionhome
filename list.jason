@@ -17,7 +17,7 @@
   {
     "title": "disney",
     "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/disneyplus.mp4",
-    "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/disneyplus.png"
+    "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/disney.png"
   },
   {
     "title": "hbo",
@@ -38,5 +38,10 @@
     "title": "crunchyroll",
     "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/crunchyroll.mp4",
     "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/crunchyroll.png"
+  },
+{
+    "title": "showtime",
+    "videoURL": "https://github.com/eriparker/fusionhome/raw/refs/heads/main/showtime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/fusionhome/refs/heads/main/showtime.png"
   }
 ]
